@@ -12,3 +12,4 @@ https://github.com/Sreeja1585/23CSBTB27-28/blob/main/Housing.ipynb
 https://github.com/Sreeja1585/23CSBTB27-28/blob/main/titanic_train&titanic_test.ipynb
 https://github.com/Sreeja1585/23CSBTB27-28/blob/main/README.md
 https://github.com/Sreeja1585/23CSBTB27-28/blob/main/Classified_Data.ipynb
+https://github.com/Sreeja1585/23CSBTB27-28/blob/main/fetch_california_housing.ipynb
